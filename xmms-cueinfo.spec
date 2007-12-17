@@ -13,7 +13,6 @@ BuildRequires:	libxmms-devel glib-devel gtk+1.2-devel
 Requires:	xmms
 Url:		http://www.student.lu.se/~nbi98oli/xmms-cueinfo.html
 Source:		%name-%version.tar.bz2
-BuildRoot:	%_tmppath/%name-buildroot
 
 %description
 xmms-cueinfo is a plugin for XMMS that adds support for reading cue files. Cue
