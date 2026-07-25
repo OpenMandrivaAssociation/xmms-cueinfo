@@ -1,6 +1,6 @@
 %define name xmms-cueinfo
 %define version 0.2.0
-%define release	%mkrel 9
+%define release 10
 
 
 Name:		%name
